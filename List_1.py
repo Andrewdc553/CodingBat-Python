@@ -17,6 +17,7 @@ max_end3([2, 11, 3]) → [3, 3, 3]
 return [nums[0]] * 3 if nums[0] >= nums[2] else [nums[2]] * #
 
 
+
 def sum2(nums):
 """
 Given an array of ints, return the sum of the first 2 elements in the array.
